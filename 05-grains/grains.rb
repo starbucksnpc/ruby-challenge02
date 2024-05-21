@@ -8,3 +8,4 @@ class Grains
         (1..64).sum { |num| square(num) }
     end
 end
+
